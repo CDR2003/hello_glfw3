@@ -1,0 +1,10 @@
+name "hello_glfw3"
+description "A minimal D application."
+authors "fitbos"
+copyright "Copyright © 2018, fitbos"
+license "proprietary"
+
+dependency "derelict-glfw3" version="~>4.0.0-beta"
+dependency "derelict-gl3" version="~>2.0.0-beta"
+
+targetPath "./bin"

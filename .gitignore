@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+hello_glfw3.so
+hello_glfw3.dylib
+hello_glfw3.dll
+hello_glfw3.a
+hello_glfw3.lib
+hello_glfw3-test-*
+*.exe
+*.o
+*.obj
+*.lst
+bin/*
